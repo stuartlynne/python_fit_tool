@@ -1,4 +1,4 @@
-A library for reading and writing Garmin FIT files.
+ A library for reading and writing Garmin FIT files.
 
 ## Background
 
