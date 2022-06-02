@@ -324,7 +324,6 @@ def main():
     csv_path = '../tests/out/old_stage_course.csv'
     fit_file.to_csv(csv_path)
 
-
 if __name__ == "__main__":
     main()
 ```
