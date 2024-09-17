@@ -1,4 +1,15 @@
-A library for reading and writing Garmin FIT files.
+# A library for reading and writing Garmin FIT files.
+
+## Forked 2024-09-17
+Stuart.Lynne@gmail.com
+This is a fork of git@bitbucket.org:stagescycling/python_fit_tool.git. 
+There has been no activity in that archive since October 2022.
+
+This Python library is slower for reading FIT files than the garmin_fit_sdk, but does support encoding FIT files.
+
+It will need to be updated to keep it current with the overall Garmin FIT SDK for new messages etc.
+
+
 
 ## Background
 
